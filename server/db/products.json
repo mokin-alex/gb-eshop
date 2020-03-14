@@ -1,0 +1,74 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 160,
+    "color": "Red",
+    "size": "M",
+    "brand": "BRAND1",
+    "img": "./img/Layer_2.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "MANGO T-SHIRT",
+    "price": 300,
+    "color": "Green",
+    "size": "L",
+    "brand": "BRAND1",
+    "img": "./img/Layer_3.jpg"
+  },
+  {
+    "id_product": 123,
+    "product_name": "MANGO JACKET",
+    "price": 450,
+    "color": "Blue",
+    "size": "XL",
+    "brand": "BRAND2",
+    "img": "./img/Layer_4.jpg"
+  },
+  {
+    "id_product": 456,
+    "product_name": "ADIBASS DRESS",
+    "price": 100,
+    "color": "Red",
+    "size": "L",
+    "brand": "ADIBASS",
+    "img": "./img/Layer_5.jpg"
+  },
+  {
+    "id_product": 12444,
+    "product_name": "MANGO DRESS",
+    "price": 230,
+    "color": "Black",
+    "size": "M",
+    "brand": "BRAND2",
+    "img": "./img/Layer_6.jpg"
+  },
+  {
+    "id_product": 45777,
+    "product_name": "MANGO T-SHIRT",
+    "price": 423,
+    "color": "Green",
+    "size": "L",
+    "brand": "BRAND3",
+    "img": "./img/Layer_7.jpg"
+  },
+  {
+    "id_product": 12333,
+    "product_name": "MANGO breeches",
+    "price": 700,
+    "color": "Red",
+    "size": "XL",
+    "brand": "BRAND2",
+    "img": "./img/Layer_8.jpg"
+  },
+  {
+    "id_product": 45566,
+    "product_name": "ADIBASS SHORTS",
+    "price": 240,
+    "color": "White",
+    "size": "XL",
+    "brand": "ADIBASS",
+    "img": "./img/Layer_9.jpg"
+  }
+]
